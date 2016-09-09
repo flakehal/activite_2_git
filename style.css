@@ -13,7 +13,7 @@
 
 body {
 	
-	background: url("images/bg_body.jpg");
+	background: #fff;
 	font-family: Arial, sans-serif;
 	font-size: 14px;
 	color: #212121;
@@ -34,15 +34,6 @@ h2 {
     font-family: 'oswaldbold', Impact, sans-serif;
 	font-size: 24px;
 	color: #673b15;
-}
-
-.maphoto {
-	float: right;
-}
-
-.maphoto img {
-	border: 3px solid #212121;
-    box-shadow: 10px 10px 20px #212121;	
 }
 
 .experience {
